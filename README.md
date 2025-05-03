@@ -12,7 +12,7 @@ Here are some of my projects:
 
 ### 2022–2023
 - 💳 **Fraud Detection** – Applied stats project with Ekimetrics – [StatApp](https://github.com/CorentinPernot/StatApp)  
-- 🔢 **Log-Linear Models** – Simulations and Monte Carlo – [Log-Linear-Models](https://github.com/CorentinPernot/Log-Linear-Models)
+- 🔢 **Log-Linear Models** – Simulations and Monte Carlo – [Log-Linear-Models](https://github.com/CorentinPernot/Log-Linear-Model)
 
 ### 2021–2022
 - 🐜 **Ant Colony Optimization** – “Strength in numbers” approach using ant colony metaheuristics – [AntsProject](https://github.com/CorentinPernot/AntsProject)
