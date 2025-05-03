@@ -1,16 +1,19 @@
-## Hi there 👋
+**Hi, I'm Corentin.**  
+I'm a graduate of ENSAE Paris and the MVA Master's program at ENS Paris-Saclay.  
+Here are some of my projects:
 
-<!--
-**CorentinPernot/CorentinPernot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 2024–2025
+- 🌀 **Wasserstein Barycenter for Texture Mixing** – [Wasserstein_Barycenter_Texture_Mixing](https://github.com/CorentinPernot/Wasserstein_Barycenter_Texture_Mixing)  
+- 📈 **Fast Shapelets for Time Series** – Discovering patterns using SAX representations – [Fast-Shapelets](https://github.com/CorentinPernot/Fast-Shapelets)  
+- 🧬 **Agent-Based Modeling** – Social hierarchy emergence – [interactions](https://github.com/CorentinPernot/interactions)  
+- ✍️ **ML for NLP** – Detecting AI vs. human-generated text – [ml-for-NLP](https://github.com/CorentinPernot/ml-for-NLP)  
+- 🔄 **Optimal Transport** – Sinkhorn algorithm with constraints – [Sinkhorn-Constrained](https://github.com/CorentinPernot/Sinkhorn-Constrained)  
+- 🌳 **Model Interpretability** – Shapley values in tree-based models – [TreeShap](https://github.com/CorentinPernot/TreeShap)
 
-Here are some ideas to get you started:
+### 2022–2023
+- 💳 **Fraud Detection** – Applied stats project with Ekimetrics – [StatApp](https://github.com/CorentinPernot/StatApp)  
+- 🔢 **Log-Linear Models** – Simulations and Monte Carlo – [Log-Linear-Models](https://github.com/CorentinPernot/Log-Linear-Models)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 2021–2022
+- 🐜 **Ant Colony Optimization** – “Strength in numbers” approach using ant colony metaheuristics – [AntsProject](https://github.com/CorentinPernot/AntsProject)
+
