@@ -6,7 +6,7 @@ Here are some of my projects:
 - 🌀 **Wasserstein Barycenter for Texture Mixing** – [Wasserstein_Barycenter_Texture_Mixing](https://github.com/CorentinPernot/Wasserstein_Barycenter_Texture_Mixing)  
 - 📈 **Fast Shapelets for Time Series** – Discovering patterns using SAX representations – [Fast-Shapelets](https://github.com/CorentinPernot/Fast-Shapelets)  
 - 🧬 **Agent-Based Modeling** – Social hierarchy emergence – [interactions](https://github.com/CorentinPernot/interactions)  
-- ✍️ **ML for NLP** – Detecting AI vs. human-generated text – [ml-for-NLP](https://github.com/CorentinPernot/ml-for-NLP)  
+- ✍️ **ML for NLP** – Detecting AI vs. human-generated text – [ml-for-NLP](https://github.com/CorentinPernot/ML-for-NLP)  
 - 🔄 **Optimal Transport** – Sinkhorn algorithm with constraints – [Sinkhorn-Constrained](https://github.com/CorentinPernot/Sinkhorn-Constrained)  
 - 🌳 **Model Interpretability** – Shapley values in tree-based models – [TreeShap](https://github.com/CorentinPernot/TreeShap)
 
